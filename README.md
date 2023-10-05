@@ -6,6 +6,10 @@ I have a strong commitment to continuous learning and growth. I am driven by the
 
 Currently honing my knowledge of React, Javascript audio frameworks, and how design affects those that are neurodivergent. My learning is centered on the role that technology plays in our lives and how it helps to overcome barriers.
 
+Projects currently working on:
+- ???
+- ???
+- ???
 
 <!--
 **cris-kiri/cris-kiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
