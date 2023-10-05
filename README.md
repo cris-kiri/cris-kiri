@@ -6,6 +6,8 @@ I have a strong commitment to continuous learning and growth. I am driven by the
 
 Currently honing my knowledge of React, Javascript audio frameworks, and how design affects those that are neurodivergent. My learning is centered on the role that technology plays in our lives and how it helps to overcome barriers.
 
+You will find a mix of projects from my studies at Dev Academy Aotearoa as well as some to satisfy my own curiosities.
+
 Projects currently working on:
 - ???
 - ???
