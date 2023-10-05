@@ -8,10 +8,10 @@ Currently honing my knowledge of React, Javascript audio frameworks, and how des
 
 You will find a mix of projects from my studies at Dev Academy Aotearoa as well as some to satisfy my own curiosities.
 
-Projects currently working on:
-- ???
-- ???
-- ???
+Projects looking at starting:
+- Beat Pixel 2.0 w/ Elementary Audio
+- Todo App w/ Sveltekit
+- ADHD accessibility research
 
 <!--
 **cris-kiri/cris-kiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
